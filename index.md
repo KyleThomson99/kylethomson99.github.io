@@ -7,7 +7,7 @@
 [Predicting Healthcare Costs](/HCA_Analysis)
 <img src="images/HCA_Datafolio.jpg?raw=true"/>
 
----
+<!-- ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
@@ -25,7 +25,7 @@
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
----
+--- -->
 
 
 
