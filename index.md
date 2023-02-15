@@ -2,7 +2,7 @@
 
 ---
 
-### Healthcare Projects
+### Data Projects
 
 [Predicting Healthcare Costs](/HCA_Analysis)
 <img src="images/HCA_Datafolio.jpg?raw=true"/>
