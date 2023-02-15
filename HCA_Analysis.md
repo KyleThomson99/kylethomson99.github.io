@@ -7,4 +7,4 @@
 
 The goal of this project is to highlight one application of supervised machine-learning that can be used to model patient healthcare costs. Currently, healthcare insurance providers use an approach to modeling risk-adjustment using HCC grouping logic (<a href = "https://www.aapc.com/risk-adjustment/risk-adjustment.aspx">click here to learn more</a>). While this approach does not model patient risk, it allows end-users to better understand how we can utilize patient data to better understand potential healthcare costs.  
 
-<a = href = "_notebooks/HCA_EDA.html"> /**Exploratory Data Analysis** </a>
+[Exploratory Data Analysis](_notebooks/HCA_EDA.html)
