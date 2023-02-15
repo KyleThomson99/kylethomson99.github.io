@@ -17,9 +17,13 @@
 
 ---
 
-<!-- ### Notebooks -->
+### Category Name 2
 
-- [Predicting Healthcare Costs - EDA](_notebooks/HCA_EDA.html)
+- [Project 1 Title](http://example.com/)
+- [Project 2 Title](http://example.com/)
+- [Project 3 Title](http://example.com/)
+- [Project 4 Title](http://example.com/)
+- [Project 5 Title](http://example.com/)
 
 --- -->
 
