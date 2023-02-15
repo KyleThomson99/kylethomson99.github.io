@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Predicting Healthcare Costs](/sample_page)
-<img src="images/HCA_Datafolio.pdf?raw=true"/>
+[Predicting Healthcare Costs](/HCA_Analysis)
+<img src="images/HCA_Datafolio.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
