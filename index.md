@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Healthcare Projects
 
 [Predicting Healthcare Costs](/HCA_Analysis)
 <img src="images/HCA_Datafolio.jpg?raw=true"/>
