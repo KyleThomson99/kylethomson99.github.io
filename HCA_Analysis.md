@@ -1,7 +1,13 @@
 ## Predicting Healthcare Costs  
 ### A Multiple Linear Regression Approach
 
-<a href= "/pdf/HCA_Datafolio.pdf"> <img src = "images/HCA_Datafolio.jpg?raw=true">
+<a href= "/pdf/HCA_Datafolio.pdf"> <img src = "images/HCA_Datafolio.jpg?raw=true">  
+
+Tools Used : Python  
+
+Libraries Used : Pandas, scipy, statsmodels  
+
+Techniques Used : Multiple Linear Regression
 
 **Project description:** The U.S. Healthcare industry is one of few multi-billion dollar industries that has the potential to leverage data and analytics in order to directly benefit individual's quality of life. Through sophisticated machine-learning models and precise analytics data-professionals can help both healthcare insurance payors and providers decrease medical costs and increase overall patient quality of care.  
 
