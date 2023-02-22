@@ -7,6 +7,9 @@
 [Predicting Healthcare Costs](/HCA_Analysis)
 <img src="images/HCA_Datafolio.jpg?raw=true"/>
 
+[Medicaid Enrollment Dashboard](/Medicaid_Enrollment_Dashboard)
+<img src="images/Medicaid_Erollment.jpg?raw=true"/>
+
 <!-- ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
