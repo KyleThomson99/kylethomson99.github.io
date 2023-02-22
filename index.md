@@ -8,7 +8,7 @@
 <img src="images/HCA_Datafolio.jpg?raw=true"/>
 
 [Medicaid Enrollment Dashboard](/Medicaid_Enrollment_Dashboard)
-<img src="images/Medicaid_Enrollment.jpg?raw=true"/>
+<img src="images/Medicaid_Enrollment.png?raw=true"/>
 
 <!-- ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
